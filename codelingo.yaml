@@ -1,0 +1,5 @@
+tenets:
+- import: 
+- import: codelingo/effective-go/comment-first-word-when-empty
+- import: codelingo/effective-go/underscores-in-name
+- import: codelingo/code-review-comments/go-error-fmt
